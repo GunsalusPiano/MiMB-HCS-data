@@ -40,19 +40,29 @@ data_step3.3b_adjustments.csv (maybe change this to adjustment_amount) <br />
 data_step3.3b_cell_panelA_subset.csv <br />
 data_step3.3c_cells_adjusted.csv <br />
 
+*data file to be used three times, for steps 3.1.1, 3.1.3 and 3.2.
+
 
 # Figure files:
-Figure_step3.1.1_scatter.pdf (Fig 1) <br />
-Figure_step3.1.1_scatter_legend.pdf (Fig 1 legend) <br />
-Figure_step3.1.2_density.pdf (Fig 2) <br />
-Figure_step3.1.2_density_legend (Fig 2 legend) <br />
-Figure_step3.1.3_heatmap.pdf (Fig 3)  <br />
-Figure_step3.2_row.pdf (Fig 4 top) <br />
-Figure_step3.2_col.pdf (Fig 4 bottom) <br />
-Figure_step3.2_RNA_all.pdf (Fig 5 left) <br />
-Figure_step3.2_RNA_intensity.pdf (Fig 5 right) <br />
-Figure_step3.3_flowchart.pdf (Fig 6: Flowchart) <br />
-Figure_step3.3a_Bscores_totalinten.pdf (Fig 7: B scores) <br />
-Figure_step3.3a_Zscores_nucsize.pdf (Fig 7: Z scores) <br />
+Figure1.pdf: section 3.1.1 scatterplot<br />
+Figure1_legend.pdf<br />
+Figure2.pdf: section 3.1.2 density curves<br />
+Figure2_legend.pdf<br />
+Figure3.pdf: section 3.1.3 heatmap<br />
+Figure4_upperpanel.pdf<br />
+Figure4_lowerpanel.pdf<br />
+Figure5_left.pdf<br />
+Figure5_right.pdf<br />
+Figure6.pdf<br />
+Figure7_left.pdf<br />
+Figure7_right.pdf<br />
+Figure8.pdf<br />
+Figure9.pdf<br />
+Figure10a_left.pdf<br />
+Figure10a_right.pdf<br />
+Figure10b_left.pdf<br />
+Figure10b_right.pdf<br />
+Figure11_a.pdf<br />
+Figure11_b.pdf<br />
 
-*data file to be used three times, for steps 3.1.1, 3.1.3 and 3.2.
+
