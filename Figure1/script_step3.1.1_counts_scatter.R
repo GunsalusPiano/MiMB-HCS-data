@@ -29,7 +29,7 @@ library(readr)
 # set working directory
 ########################
 
-setwd("~/Documents/NYU_work/Sept_17_2018/R_code_b/MiMB_BookChapter_2024")
+setwd("~/Location/of/data")
 
 ########################
 # (1) Import the annotated well median data file from panel A channels (Hoechst, syto14, mito, WGA)
