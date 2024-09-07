@@ -38,6 +38,12 @@
  library(readr)
  library(car)
 
+########################
+# set working directory
+########################
+
+setwd("~/Location/of/Data")
+
   ########################
   # (1) Import the annotated well median data file from panel A channels (Hoechst, syto14, mito, WGA)
   ########################
