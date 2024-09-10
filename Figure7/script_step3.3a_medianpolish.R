@@ -1,17 +1,18 @@
 ########################
-# R script is in support of the published manuscript (https://doi.org/10.1038/s42003-022-04343-3) 
-# The book chapter for MiMb - May 2024 
+# R script is in support of the published MiMB book chapter (2024) and data analysis methods published in manuscript (https://doi.org/10.1038/s42003-022-04343-3) 
 ########################
 
 ########################
 # Script is written by Yanthe E. Pearson
 ########################
 
+########################
+# R script for MiMB BookChapter - Methods section 3.3: Plate normalization and cell standardization
+########################
+
 
 ########################
-# R script for figures 6,7,8: Adjustment of plate positional effects and data standardization across 
-# different plates.
-# R script for MiMB BookChapter - 3.3 Plate normalization and cell standardization Fig 6 (a)
+# Figure 7: Scatter plot of well-level data after plate correction and data standardization for six plates.
 ########################
 
 
