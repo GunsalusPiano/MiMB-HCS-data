@@ -41,10 +41,10 @@ library(gridExtra)
 
 
 ########################
-# setwd("~/Location/of/your/files")
+# set working directory
 ########################
 
-setwd("~/Documents/NYU_work/Sept_17_2018/R_code_b/MiMB_BookChapter_2024/fig3C")
+setwd("~/Location/of/data_step3.3a_well_medians.csv")
 
 ########################
 # Import the updated medians file 
@@ -369,7 +369,7 @@ for (j in seq(1,length(df.features.num))) {
     
   } # ----- closing *if* statement
   
-     ############################################# 
+    ######################## 
       
   } # ----- loop for plates
   
@@ -473,8 +473,8 @@ hi = do.call(cbind,bscores.save.all)
 colnames(hi) = names(df.features.num)
 hi1 = cbind(df.features[,1:11],hi)
 
-setwd("~/Documents/NYU_work/Sept_17_2018/R_code_b/MiMB_BookChapter_2024/fig3C")
-write.csv(hi1, file = "data_output_Bscores_panelA_March14_2024.csv")  
+setwd("~/location/to/save/data")
+# write.csv(hi1, file = "data_output_Bscores.csv")  
 
 ##########################
 # prep data frame of plate adjustments
@@ -484,8 +484,8 @@ hi2 = do.call(cbind,plates.adjusted.save.all)
 colnames(hi2) = names(df.features.num)
 hi3 = cbind(df.features[,1:11],hi2)
 
-setwd("~/Documents/NYU_work/Sept_17_2018/R_code_b/MiMB_BookChapter_2024/fig3C")
-write.csv(hi3, file = "data_output_adjustments_panelA_March14_2024.csv") 
+setwd("~/location/to/save/data")
+write.csv(hi3, file = "data_output_adjustments.csv") 
 
 
 
