@@ -36,8 +36,8 @@ data_step3.1.1_counts_and_medians_panelA.csv* <br />
 data_step3.1.2_density_replicates_nocodazole.csv <br />
 data_step3.1.2_cell_data_control.csv <br />
 data_step3.3a_well_medians.csv <br />
-data_step3.3b_adjustments.csv (maybe change this to adjustment_amount) <br />
-data_step3.3b_cell_panelA_subset.csv <br />
+data_step3.3b_adjustments.csv  <br />
+data_step3.3b_cell_panelA_subset.csv (large data file) <br />
 data_step3.3c_cells_adjusted.csv <br />
 
 *data file to be used three times, for steps 3.1.1, 3.1.3 and 3.2.
