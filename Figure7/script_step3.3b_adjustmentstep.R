@@ -1,16 +1,13 @@
 
 ########################
 # R script is in support of the published manuscript (https://doi.org/10.1038/s42003-022-04343-3) 
-# The book chapter for MiMb 2024 
-########################
-
-########################
+# The book chapter for Methods in Molecular Biology 2024 
 # Script is written by Yanthe E. Pearson
 ########################
 
 ########################
 # Per well adjustment of cells 
-# R script for MiMB BookChapter - 3.3 Plate normalization and cell standardization
+# 3.3 Plate normalization and cell standardization
 ########################
 
 ########################
@@ -38,10 +35,8 @@ library(gridExtra)
 # setwd("~/Directory.../.../")
 ########################
 
-setwd("~/Documents/NYU_work/Sept_17_2018/R_code_b/MiMB_BookChapter_2024")
-
 ########################
-# import **data_step4_adjustments.csv**
+# import data file data_step3.3b_adjustments.csv
 ########################
 
 mp.adjust <- read_csv("~/Documents/NYU_work/Sept_17_2018/R_code_b/MiMB_BookChapter_2024/data_step3.3b_adjustments.csv")
