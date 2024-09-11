@@ -38,7 +38,7 @@ data_step3.1.2_cell_data_control.csv <br />
 data_step3.3a_well_medians.csv <br />
 data_step3.3b_adjustments.csv  <br />
 data_step3.3b_cell_panelA_subset.csv (large data file) <br />
-data_step3.3c_cells_adjusted.csv <br />
+data_step3.3c_cells_adjusted.csv (large data file) <br />
 
 *data file to be used three times, for steps 3.1.1, 3.1.3 and 3.2.
 
