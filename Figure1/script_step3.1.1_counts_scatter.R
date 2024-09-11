@@ -1,13 +1,16 @@
 ########################
-# R script is in support of the published MiMB book chapter and data analysis methods published in manuscript (https://doi.org/10.1038/s42003-022-04343-3) 
-########################
-
-########################
+# R script is in support Methods in Molecular Biology book chapter and 
+# data analysis methods published in manuscript (https://doi.org/10.1038/s42003-022-04343-3) 
 # Script is written by Yanthe E. Pearson
 ########################
 
 ########################
-# R script for MiMB BookChapter - Step 3.1.1
+# Quality control measures and statistical strategies to address the challenges of high-content phenotypic data
+# by Yanthe E. Pearson and Kristin C. Gunsalus
+########################
+# 3. Methods
+# 3.1 Raw data visualizations
+# 3.1.1 Cell count scatterplot
 ########################
 
 ########################
