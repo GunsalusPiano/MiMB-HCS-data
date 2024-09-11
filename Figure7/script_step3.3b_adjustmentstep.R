@@ -44,7 +44,7 @@ library(gridExtra)
 # import data file data_step3.3b_adjustments.csv
 ########################
 
-mp.adjust <- read_csv("~/Documents/NYU_work/Sept_17_2018/R_code_b/MiMB_BookChapter_2024/data_step3.3b_adjustments.csv")
+mp.adjust <- read_csv("data_step3.3b_adjustments.csv")
 # mp.adjust = mp.adjust[,-2]
 mp.adjust = data.frame(mp.adjust)
 
@@ -82,7 +82,7 @@ cell1 = cell.dat
     vars
     
     
-    #wells = mp.adjust$plate_well # ~~~~ is this being used?
+    #wells = mp.adjust$plate_well 
     #wells
   
 
