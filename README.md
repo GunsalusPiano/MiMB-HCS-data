@@ -29,7 +29,7 @@ script_step3.2_anova.R <br />
 script_step3.3a_medianpolish.R <br />
 script_step3.3b_adjustmentstep.R <br />
 script_step3.3c_BZscores.R <br />
-script_step3.3d_compare_data.R<br /> 
+script_step3.3d_compare_data_figs8-9-10.R<br /> 
 
 # Data files:
 data_step3.1.1_counts_and_medians_panelA.csv* <br />
@@ -39,6 +39,7 @@ data_step3.3a_well_medians.csv <br />
 data_step3.3b_adjustments.csv  <br />
 data_step3.3b_cell_panelA_subset.csv (large data file) <br />
 data_step3.3c_cells_adjusted.csv (large data file) <br />
+data_step3.3d_cell_data_allplates.csv (large data file) <br />
 
 *data file to be used three times, for steps 3.1.1, 3.1.3 and 3.2.
 
