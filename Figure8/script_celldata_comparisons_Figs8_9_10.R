@@ -32,8 +32,6 @@ library(gridExtra)
 # setwd("~/Directory.../.../")
 ########################
 
-setwd("~/Documents/NYU_work/Sept_17_2018/R_code_b/MiMB_BookChapter_2024")
-
 ########################
 # import **data_step4_adjustments.csv**
 ########################
