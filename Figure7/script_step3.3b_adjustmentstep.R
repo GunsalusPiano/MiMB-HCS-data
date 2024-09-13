@@ -1,6 +1,6 @@
 
 ########################
-# R script is in support Methods in Molecular Biology book chapter and 
+# R script is in support of Methods in Molecular Biology book chapter and 
 # data analysis methods published in manuscript (https://doi.org/10.1038/s42003-022-04343-3) 
 # Script is written by Yanthe E. Pearson
 ########################
